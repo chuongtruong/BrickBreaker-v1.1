@@ -5,6 +5,8 @@ For this project, we re-make a very well-known game, and I believe many of you h
 
 ## Live Demo
 ![alt text](https://github.com/chuongtruong/BrickBreaker-v1.1/blob/master/img/demo.gif  | width=200)
+
+<img src="https://github.com/chuongtruong/BrickBreaker-v1.1/blob/master/img/demo.gif" alt="drawing" width="200"/>
 ## UML Class diagrams
 ![alt text](https://github.com/chuongtruong/BrickBreaker-v1.1/blob/master/img/classes_diagram.png  | width=200)
 ## UML Sequence and/or state diagrams
